@@ -9,40 +9,41 @@ Building production-ready REST APIs with FastAPI — from in-memory CRUD to real
 Learning the AI engineering stack — LLM integration, data pipelines, and intelligent backends
 Progressing through Machine Learning with Scikit-learn, Pandas, and NumPy
 
-## Tech Stack
-# Languages: Python
-# Backend: FastAPI, SQLAlchemy, SQLite, Pydantic
-# Data & ML: Pandas, Numpy, Sckit-Learn
+# Tech Stack
+### Languages: Python
+### Backend: FastAPI, SQLAlchemy, SQLite, Pydantic
+### Data & ML: Pandas, Numpy, Sckit-Learn
 
-## Tools: Git, Github, 
+# Tools: 
+Git, Github, 
 
 
- ## Featured Projects
- # Product Inventory API v2
+ # Featured Projects
+ ### Product Inventory API v2
 
 FastAPI · Pydantic · SQLAlchemy · HTTPException
 
 A fully validated REST API built from scratch. Features Pydantic models with Field constraints, Path/Query validation, proper HTTP status codes, and structured error handling. Built independently after learning from a Books API tutorial.
 
-#  Todo API with SQLite
+###  Todo API with SQLite
 
 FastAPI · SQLAlchemy ORM · SQLite · Dependency Injection
 
 First project using a real persistent database. Implements full CRUD with SQLAlchemy, session management via Depends(get_db), and proper 404 error handling. Data survives server restarts.
 
-# Car Purchase Prediction
+### Car Purchase Prediction
 
 Python · Scikit-learn · Pandas
 
 Predicts what price range of car a person can afford based on age, salary, credit card debt, and net worth. End-to-end ML project from data to prediction.
 
-# Fake News Detection
+### Fake News Detection
 
 Python · Naive Bayes · NLP · Jupyter Notebook
 
 A text classification model using Naive Bayes to detect fake news articles.
 
-## My Learning Journey
+# My Learning Journey
 Python Basics → Data Structures → NumPy & Pandas
       ↓
 Machine Learning (Sklearn) → ML Projects
@@ -53,7 +54,7 @@ AI Engineering (In Progress) 🚧
 
 
 
-## Current Goals
+# Current Goals
 
  Build a full AI-powered API (LLM + FastAPI + Database)
  Learn JWT authentication and user management in FastAPI
