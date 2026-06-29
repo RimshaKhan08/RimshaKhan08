@@ -11,7 +11,7 @@ Progressing through Machine Learning with Scikit-learn, Pandas, and NumPy
 
 # Tech Stack
 ### Languages: Python
-### Backend: FastAPI, SQLAlchemy, SQLite, Pydantic
+### Backend: FastAPI, SQLite, Pydantic
 ### Data & ML: Pandas, Numpy, Sckit-Learn
 
 # Tools: 
@@ -21,7 +21,7 @@ Git, Github,
  # Featured Projects
  ### Product Inventory API v2
 
-FastAPI · Pydantic · SQLAlchemy · HTTPException
+FastAPI · Pydantic ·  · HTTPException
 
 A fully validated REST API built from scratch. Features Pydantic models with Field constraints, Path/Query validation, proper HTTP status codes, and structured error handling. Built independently after learning from a Books API tutorial.
 
