@@ -1,7 +1,7 @@
 
 
 Hi, I'm Rimsha 👋
-I'm a Python developer focused on backend development and AI/ML engineering. I build REST APIs with FastAPI and am progressively working toward building full AI-powered applications.
+I'm a Python developer focused on AI/ML engineering. I build REST APIs with FastAPI and am progressively working toward building full AI-powered applications.
 
 ## What I'm Working On
 
